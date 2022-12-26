@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joshua Thomas</h1>
-<h3 align="center">A passionate Backend developer with Node.js from Nigeria.</h3>
+<h3 align="center">A passionate Backend developer with Node.js from Nigeria. I am currently on a journey to increasing my skills in becoming a skilled software engineer, developing Backend APIs for web and Mobile Applications</h3>
 
 - 🔭 I’m currently working on a **Start up project**
 
 - 🌱 I’m currently learning **Java.**
+- I am open to help, collaboration, open source projects, Hackathons, internships and entry level roles.
 
 - 💬 Ask me about **Node.js and MongoDB**
 
 - 📫 you can reach me **thomasjoshuaseun@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iKS7_W2PEfJDbngQcj2LPG1iM3CP2RurHBS35HKGbhQ/edit?usp=sharing](https://docs.google.com/document/d/1iKS7_W2PEfJDbngQcj2LPG1iM3CP2RurHBS35HKGbhQ/edit?usp=sharing)
+- 📄You can see the projects I have worked on here: [https://docs.google.com/document/d/1iKS7_W2PEfJDbngQcj2LPG1iM3CP2RurHBS35HKGbhQ/edit?usp=sharing](https://docs.google.com/document/d/1iKS7_W2PEfJDbngQcj2LPG1iM3CP2RurHBS35HKGbhQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me: Twitter @Joshuat_dev</h3>
 <p align="left">
