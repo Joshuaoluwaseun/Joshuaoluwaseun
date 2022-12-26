@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a **Start up project**
 
 - 🌱 I’m currently learning **Java.**
-- I am open to help, collaboration, open source projects, Hackathons, internships and entry level roles.
+- Job Interest: I am open to help, collaboration, open source projects, Hackathons, internships and entry level roles.
 
 - 💬 Ask me about **Node.js and MongoDB**
 
