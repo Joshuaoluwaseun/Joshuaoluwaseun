@@ -10,7 +10,7 @@
 
 - 📫 you can reach me **thomasjoshuaseun@gmail.com**
 
-- 📄You can see the projects I have worked on here: [https://docs.google.com/document/d/1iKS7_W2PEfJDbngQcj2LPG1iM3CP2RurHBS35HKGbhQ/edit?usp=sharing](https://docs.google.com/document/d/1iKS7_W2PEfJDbngQcj2LPG1iM3CP2RurHBS35HKGbhQ/edit?usp=sharing)
+- 📄You can see the projects I have worked on my cv: [https://docs.google.com/document/d/1WRFCfDZX69Tse20dK1oqyj2KCAUktfi2RPh3ADM2s3Y/edit?usp=sharing](https://docs.google.com/document/d/1WRFCfDZX69Tse20dK1oqyj2KCAUktfi2RPh3ADM2s3Y/edit?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
